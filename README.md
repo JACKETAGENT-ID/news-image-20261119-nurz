@@ -1,5 +1,9 @@
 # The World Today — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A one-image summary of 19 November 2026's world news, drawn as a classic
 newspaper front page: a large masthead, a clear date line, one lead story
 and three supporting stories.
@@ -21,3 +25,7 @@ Voyager 1 reaching one light-day from Earth.
 python3 generate.py
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vr338bvp&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
